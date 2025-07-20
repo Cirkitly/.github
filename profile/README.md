@@ -67,7 +67,7 @@ Hardware development is traditionally:
 | Pipelined ALU   | Prompt    | `rtl-copilot`, `picoplace`          | SVG layout + sim          |
 | Matrix Mult     | Python    | `cuda-genie`, `silicon-agent`       | CUDA kernel + perf notes  |
 
-Demos are coming soon to [Binary Mavericks YouTube](https://www.youtube.com/@BinaryMavericks)!
+Demos are coming soon to [Personal YouTube channel](https://www.youtube.com/@EchoesWith-in)
 
 ---
 
@@ -98,7 +98,7 @@ Open issues, suggest tools, or contribute to one of the core repos!
 
 ## Maintained by
 
-* Utkarsh Maurya ([@binarymavericks](https://github.com/pro-utkarshM))
+* Utkarsh Maurya ([@pro-utkarshM](https://github.com/pro-utkarshM))
 * The open-source hardware community 🚀
 
 ---
