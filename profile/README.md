@@ -112,7 +112,7 @@ Some tools (e.g., yosys, verilator) follow their own licenses.
 
 ## Website
 
-Coming soon: [https://cirkitly.dev](https://cirkitly.dev)
+Website: [https://cirkitly.utkarshlabs.tech](https://cirkitly.utkarshlabs.tech)
 
 ---
 > *"Hardware should be as easy to write and debug as software — Cirkitly makes that real."*
